@@ -41,4 +41,4 @@ Para testar a nossa aplicação acesse o link a seguir: http://34.172.95.120:500
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**SISTEMAS DISTRIBUIDOS** Link para acesso http://34.172.95.120:5000/
+**SISTEMAS DISTRIBUIDOS - UNIVERSIDADE NOVE DE JULHO - MEMORIAL DA AMÉRICA LATINA - TURMA 29 - SEGUNDA-FEIRA NOTURNO**
