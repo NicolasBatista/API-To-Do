@@ -24,4 +24,21 @@ O objetivo desse trabalho era criar um Front-End que fosse capaz de consumir os 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**SISTEMAS DISTRIBUIDOS** NO COLABORY [PROJ_GOVERNANCA_TI.ipynb](/PROJ_GOVERNANCA_TI.ipynb)
+**ESTRUTURA DO PROJETO**\
+
+Foi desenvolvido um Front-End capaz de consumir os recursos disponíveis na API mencionada a cima. Para isso utilizamos os
+seguintes meios.
+
+Foi desenvolvido uma aplicação **Python** que contém as rotas que realizam as funções da API, sendocapaz de puxar as informações da 
+API quando necessário e realizar a inserção das informações conforme a necessidade do usuário.
+
+Estruturamos nosso Front-End utilizando apenas **HTML** e **CSS** para criar os formulários e uma estilização básica.
+
+Toda nossa aplicação roda em um container **Docker** e está hospedada em uma **VM (Vitual-Machine)** no **Google Cloud Platform (GCP)**
+permitindo assim que seja efetuado um teste na aplicação a qualquer momento e de qualquer lugar.
+
+Para testar a nossa aplicação acesse o link a seguir: http://34.172.95.120:5000/
+
+------------------------------------------------------------------------------------------------------------------------------
+
+**SISTEMAS DISTRIBUIDOS** Link para acesso http://34.172.95.120:5000/
