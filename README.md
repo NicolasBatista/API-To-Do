@@ -17,7 +17,7 @@ Rodrigo Freitas Barreto                                        RA: 920126602
 
 Para esse projeto utilizamos a API disponibilizada pelo professor Edson Melo(https://github.com/EdsonMSouza/):
 
-https://todolist-api.edsonmelo.com.br/api/
+https://todolist-api.edsonmelo.com.br/api/\
 https://github.com/EdsonMSouza/php-api-to-do-list
 
 O objetivo desse trabalho era criar um Front-End que fosse capaz de consumir os recursos disponíveis nessa API
