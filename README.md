@@ -34,7 +34,7 @@ Estruturamos nosso Front-End utilizando apenas **HTML** e **CSS** para criar os 
 
 Toda nossa aplicação roda em um container **Docker** e está hospedada em uma **VM (Vitual-Machine)** no **Google Cloud Platform (GCP)** permitindo assim que seja efetuado um teste na aplicação a qualquer momento e de qualquer lugar.
 
-**Para testar a nossa aplicação acesse o link a seguir:** http://34.172.95.120:5000/
+**PARA TESTAR NOSSA APLICAÇÃO ACESSE O LINK A SEGUIR:** http://34.172.95.120:5000/
 
 ------------------------------------------------------------------------------------------------------------------------------
 
