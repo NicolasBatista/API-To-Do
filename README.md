@@ -24,7 +24,7 @@ O objetivo desse trabalho era criar um Front-End que fosse capaz de consumir os 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-**ESTRUTURA DO PROJETO**\
+**ESTRUTURA DO PROJETO**
 
 Foi desenvolvido um Front-End capaz de consumir os recursos disponíveis na API mencionada a cima. Para isso utilizamos os
 seguintes meios.
